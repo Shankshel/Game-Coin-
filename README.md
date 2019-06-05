@@ -1,7 +1,7 @@
 # Game "Coin"
 
-# Write the program "Coin": it generates a random number 0 or 2
-# And displays "Eagle fell out" for zero, "Tails dropped out" for one or "Coin has risen on an edge!"
+Write the program "Coin": it generates a random number 0 or 2
+And displays "Eagle fell out" for zero, "Tails dropped out" for one or "Coin has risen on an edge!"
 
 coin = rand(2)
 
